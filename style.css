@@ -6,6 +6,6 @@
 .image_section{
     background-image: url(/assets/img/header-bg.jpg);
     height: 100vh;
-    color: white;
-    
+    background-size: cover;
+    color: white;  
 }
