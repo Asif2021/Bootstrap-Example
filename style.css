@@ -16,9 +16,20 @@ background-size: cover;
 .navbar .navbar-brand{
   width: 230px;
 }
+.icon_span{
+    width: 120px;
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    border-radius: 73px;
+    align-items: center;
+    height: 120px;
+    margin-left: 120px;
+}
+
 .bg_dark{
     background-color: #212529 !important; 
-    transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+    /* transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out; */
        }
 .alag li{
     margin-right: 25px;
