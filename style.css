@@ -40,12 +40,15 @@ background-size: cover;
     }
     
 }
-/* @media (min-width:992px){
-    #mainNav{
-        padding-top: 1.5rem;
-        padding-bottom: 1.5rem;
-        border: none;
-        background-color: transparent;
-        transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
-   } } */
+.team_members{
+margin-bottom: 3rem;
+text-align: center;
+}
+.team_members img{
+    border-radius: 50%;
+    height: 180px;
+}
+.links_section ul li{
+list-style: none;
+}
    
