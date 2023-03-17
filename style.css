@@ -48,7 +48,14 @@ text-align: center;
     border-radius: 50%;
     height: 180px;
 }
-.link_logos{
-    height: 150px;
+
+.img-brand{
+    height: 3rem!important
+}
+.contact_section{
+    background-color: black;
+    background-image: url("/assets/img/map-image.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
    
