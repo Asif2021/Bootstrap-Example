@@ -58,4 +58,10 @@ text-align: center;
     background-repeat: no-repeat;
     background-position: center;
 }
+.aboutImage img{
+    border-radius: 50%;
+}
+.display_icons{
+    font-size: 1.5rem;
+}
    
